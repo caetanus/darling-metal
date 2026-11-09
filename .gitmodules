@@ -3,4 +3,4 @@
 
 [submodule "deps/indium"]
 	path = deps/indium
-	url = ../indium.git
+	url = https://github.com/caetanus/indium.git
